@@ -3,12 +3,20 @@
     justify-content: space-between;
 }
 .nav-menu{
-    display: flex;
     margin-right: 30px;
     margin-top: 20px;
 }
+.nav-menu ul{
+    display: flex;
+    gap: 15px;
+}
+.nav-menu li{
+    display: flex;
+    justify-content: space-evenly;
+}
 .nav-menu-title{
-    margin-left: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
 }
 .influencer-div{
     margin-top: 50px;
