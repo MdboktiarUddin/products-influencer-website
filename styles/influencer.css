@@ -4,5 +4,29 @@
 }
 .nav-menu{
     display: flex;
-   
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.nav-menu-title{
+    margin-left: 20px;
+}
+.influencer-div{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.btn-primery{
+    background-color: red;
+    color: aliceblue;
+    border-radius: 18px;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+}
+.camera-main{
+display:flex;
+margin-right: 20px;
+}
+.influencer-header-section{
+    display:flex;
+    justify-content: space-between;
 }
