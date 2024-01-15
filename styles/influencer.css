@@ -43,9 +43,12 @@ margin-right: 20px;
 
 @media screen and (max-width:576px) {
    .nav{
-    flex-direction: column;
+    flex-direction: column; 
    }
    .influencer-header-section{
     flex-direction: column-reverse;
+   }
+   .influencer-header-section img{
+    width:75%;
    }
 }
